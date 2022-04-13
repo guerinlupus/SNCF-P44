@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="" href="http://127.0.0.1:5500/scripts/bootstrap-sncf.min.css" media="screen"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Info Traffic</title>
+    <link>https://ter-hdf-p44.netlify.app</link>
+    <description>Info Traffic ligne P44 du réseau TER Hauts-de-France</description>
+    <language>fr</language>
+    <webMaster>guerinlupus@gmail.com</webMaster>
+    <copyright>Guerinlupus DEV</copyright>
+    <item>
+      <title>Port du Masque</title>
+      <pubDate>Wed, 13 Apr 2022 18:48:36 +0200</pubDate>
+      <link>https://ter-hdf-p44.netlify.app/post_info-traffic/port_du_masque.html</link>
+      <category>COVID-19</category>
+      <description><![CDATA[Le port du masque reste obligatoire à partir de 6 ans à bord de tous les trains ainsi que dans les zones où le titre de transport est obligatoire. Le masque est obligatoire en gare au-delà du dispositif de contrôle du titre de transport (portique d'accès aux quais, bornes de validation ou contrôle à l'embarquement).]]></description>
+    </item>
+  </channel>
+</rss>
