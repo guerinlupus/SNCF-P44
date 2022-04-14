@@ -3,14 +3,14 @@
 <rss version="2.0">
   <channel>
     <generator>RSS Builder by B!Soft</generator>
-    <title>Info Traffic</title>
+    <title>&lt;h1&gt;Info Traffic&lt;/h1&gt;</title>
     <link>https://ter-hdf-p44.netlify.app/info_traffic.html</link>
     <description>Info Traffic ligne P44 du réseau TER Hauts-de-France</description>
     <language>fr</language>
     <webMaster>guerinlupus@gmail.com</webMaster>
     <copyright>Guerinlupus DEV</copyright>
     <image>
-      <title>Info Traffic</title>
+      <title>&lt;h1&gt;Info Traffic&lt;/h1&gt;</title>
       <link>https://ter-hdf-p44.netlify.app/info_traffic.html</link>
       <url>https://ter-hdf-p44.netlify.app/rss/icon.jpg</url>
     </image>
