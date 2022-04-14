@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>TER HDF - Ligne P44 - Signaler un évènement</title>
+        <title>TER HDF - Ligne P44 - Info Traffic</title>
         <link rel="stylesheet" href="scripts/bootstrap-sncf.min.css">
         <link rel="stylesheet alternate" href="scripts/bootstrap-sncf.darkmode.min.css">
         <script src="scripts/bootstrap-sncf.min.js"></script>
@@ -100,7 +100,7 @@
                 </a>
               </li>
               <li>
-                <a href="info_traffic.html" class="mastnav-item">
+                <a href="#" class="mastnav-item active">
                   <i class="icons-large-information icons-size-1x5" aria-hidden="true"></i>
                   <span class="font-weight-medium">Info Traffic</span>
                 </a>
@@ -118,7 +118,7 @@
                 </a>
               </li>
               <li class="d-none d-lg-flex">
-                <a href="#" class="mastnav-item  active">
+                <a href="event.html" class="mastnav-item">
                   <i class="icons-large-warning icons-size-1x5" aria-hidden="true"></i>
                   <span class="font-weight-medium">Signaler Evènement</span>
                 </a>
@@ -139,9 +139,10 @@
           </nav>  
     </body>
 <!--###### CODE DE LA PAGE ######-->
-    <body>
-        <center><br><br><br><br>
-            <iframe src="https://survey.screeb.app/1/24be1c4c-28ef-4d07-86d5-f2f89b0216f7/46ca19ee-8fa7-427e-8cfd-401fe87897ab" style="border:0px #ffffff none;" name="support" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="1200px" allowfullscreen></iframe>
-        </center>
+    <body><br>
+        <div class="card overflow-hidden" style="width: 80%; padding: 1%; margin-top: 5%; margin-left: auto; margin-right: auto;">
+            <center>
+                <script src="//rss.bloople.net/?url=https://ter-hdf-p44.netlify.app/rss/info_traffic.rss&showicon=true&type=js"></script>
+            </center>
+        </div>
     </body>
-</html>
